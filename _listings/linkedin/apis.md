@@ -33,7 +33,7 @@ apis:
   tags: Updates
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/updates/master/_listings/linkedin/companies-id-updates-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/updates/master/_listings/linkedin/companies-id-updates-key-update-key-get.md
 x-common:
 - type: x-authentication
   url: https://developer.linkedin.com/documents/authentication
