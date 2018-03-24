@@ -18,8 +18,8 @@ tags:
 - Partners
 - My API Stack
 - Indie EdTech Data Jam
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/updates/master/_listings/linkedin/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Updates
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/updates/master/_listings/linkedin/companies-id-updates-key-update-key-likes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/updates/master/_listings/linkedin/companies-id-updates-key-update-key-update-comments-as-company-post.md
 x-common:
 - type: x-authentication
   url: https://developer.linkedin.com/documents/authentication
